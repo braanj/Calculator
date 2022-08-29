@@ -1,6 +1,6 @@
 # Calculator
 
-This project is based on an article published on medium.com, by Michael Ozoemena on Apr 14, 2017.
+This project is based on an article published on <a href="https://medium.com/afwican-dev/building-a-calculator-9d05e45d113a">medium.com</a>, by Michael Ozoemena on Apr 14, 2017.
 
 The goal of this project: understand recursion, algorithm, and tests to get more familiar with Js programming.
 
