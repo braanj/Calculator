@@ -1,3 +1,5 @@
+<img class="text-center" src="/assets/preview.png">
+
 # Calculator
 
 This project is based on an article published on <a href="https://medium.com/afwican-dev/building-a-calculator-9d05e45d113a">medium.com</a>, by Michael Ozoemena on Apr 14, 2017.
