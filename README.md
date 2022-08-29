@@ -25,13 +25,12 @@ The goal of this project: understand recursion, algorithm, and tests to get more
 To solve this problem will use recursion: repeatedly creating a smaller version of a given situation until the problem is solved. A recursive function calls itself from within itself.
 
 ## Languages used in this project:
-```javascript
+
   <ol>
-    <li>Html5</li>
-    <li>Css3</li>
-    <li>Javascript ES6</li>
+    <li> ```html Html5 ```</li>
+    <li>```css Css3 ```</li>
+    <li>```javascript Javascript ES6 ```</li>
   </ol>
-```
 
 ## Javascript built-in function used in this program:
 ```javascript
