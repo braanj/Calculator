@@ -1,4 +1,4 @@
-<img class="text-center" src="/assets/preview.png">
+<img src="/assets/preview.png">
 
 # Calculator
 
@@ -24,9 +24,24 @@ The goal of this project: understand recursion, algorithm, and tests to get more
 
 To solve this problem will use recursion: repeatedly creating a smaller version of a given situation until the problem is solved. A recursive function calls itself from within itself.
 
+## Languages used in this project:
+```javascript
+  <ol>
+    <li>Html5</li>
+    <li>Css3</li>
+    <li>Javascript ES6</li>
+  </ol>
+```
+
 ## Javascript built-in function used in this program:
 ```javascript
   eval()
   split()
   substring()
+  includes()
 ```
+
+## Neends to be built:
+<ul>
+  <li>A function to add '()' to the equation.
+</ul>
