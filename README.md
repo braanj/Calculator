@@ -26,11 +26,11 @@ To solve this problem will use recursion: repeatedly creating a smaller version 
 
 ## Languages used in this project:
 
-  <ol>
-    <li> ```html Html5 ```</li>
-    <li>```css Css3 ```</li>
-    <li>```javascript Javascript ES6 ```</li>
-  </ol>
+<ol>
+  <li>Html5</li>
+  <li>Css3</li>
+  <li>Javascript ES6</li>
+</ol>
 
 ## Javascript built-in function used in this program:
 ```javascript
